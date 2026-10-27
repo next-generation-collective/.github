@@ -6,13 +6,13 @@ Next-Gen Collective is a youth-driven movement in South Africa, mobilising young
 
 **[Next-Gen Factory](https://github.com/next-generation-collective/factory)** is how we put the movement to work. It checks the work you build with AI, proves it works, and learns from every builder who uses it. Free and open source.
 
-Add it to Claude Code. Type this once:
+Add it to Claude Code. Type this once, then `/reload-plugins`, then just ask:
 
 ```
 /plugin install factory --marketplace next-generation-collective/factory
 ```
 
-Then just ask for what you want. [Cursor and other AI tools](https://github.com/next-generation-collective/factory/blob/main/docs/USE-IN-YOUR-AI.md).
+[Cursor and other AI tools](https://github.com/next-generation-collective/factory/blob/main/docs/USE-IN-YOUR-AI.md).
 
 | | |
 |---|---|
